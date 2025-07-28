@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+pytesseract
+scikit-image
+yt-dlp
+ffmpeg-python
+ultralytics
+requests
+streamlit
+torch
+pytest
+pylint
